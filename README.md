@@ -45,5 +45,6 @@ This project is a personal journey to understand the intricacies of game develop
 Feel free to follow along and contribute if you find this project interesting!
 
 Author: Ryan
+
 Date Started: July 15th 2024
 
