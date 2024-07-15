@@ -36,7 +36,7 @@ Interceptor is a 2D top-down game inspired by the classic arcade game Spy Hunter
 git clone https://github.com/yourusername/Interceptor.git
 cd Interceptor/src
 python main.py
-```bash
+```
 
 ##Learning Journey
 
